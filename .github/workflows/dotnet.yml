@@ -32,5 +32,7 @@ jobs:
     - name: Pull Docker Image
       run: docker pull rxarchregistery.azurecr.io/fedora/httpd:version1.0
     - name: Build and Push Container Registry Image
-      run: docker build . -t rxarchregistery.azurecr.io/fedora/httpd:version1.0
-#docker push rxarchregistery.azurecr.io/fedora/httpd:version1.0
+      run: |
+        docker build . -t rxarchregistery.azurecr.io/fedora/httpd:version1.0
+        docker tag dockerapp rxarchregistery.azurecr.io/fedora/httpd:version1.0
+        docker push rxarchregistery.azurecr.io/fedora/httpd:version1.0
