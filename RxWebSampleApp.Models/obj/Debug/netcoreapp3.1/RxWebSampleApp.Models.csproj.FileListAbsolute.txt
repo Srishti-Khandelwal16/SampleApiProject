@@ -1,0 +1,9 @@
+D:\LearningPurpose\devops\docker\RxWebSampleApp\RxWebSampleApp.Models\bin\Debug\netcoreapp3.1\RxWebSampleApp.Models.deps.json
+D:\LearningPurpose\devops\docker\RxWebSampleApp\RxWebSampleApp.Models\bin\Debug\netcoreapp3.1\RxWebSampleApp.Models.dll
+D:\LearningPurpose\devops\docker\RxWebSampleApp\RxWebSampleApp.Models\bin\Debug\netcoreapp3.1\RxWebSampleApp.Models.pdb
+D:\LearningPurpose\devops\docker\RxWebSampleApp\RxWebSampleApp.Models\obj\Debug\netcoreapp3.1\RxWebSampleApp.Models.csprojAssemblyReference.cache
+D:\LearningPurpose\devops\docker\RxWebSampleApp\RxWebSampleApp.Models\obj\Debug\netcoreapp3.1\RxWebSampleApp.Models.AssemblyInfoInputs.cache
+D:\LearningPurpose\devops\docker\RxWebSampleApp\RxWebSampleApp.Models\obj\Debug\netcoreapp3.1\RxWebSampleApp.Models.AssemblyInfo.cs
+D:\LearningPurpose\devops\docker\RxWebSampleApp\RxWebSampleApp.Models\obj\Debug\netcoreapp3.1\RxWebSampleApp.Models.csproj.CoreCompileInputs.cache
+D:\LearningPurpose\devops\docker\RxWebSampleApp\RxWebSampleApp.Models\obj\Debug\netcoreapp3.1\RxWebSampleApp.Models.dll
+D:\LearningPurpose\devops\docker\RxWebSampleApp\RxWebSampleApp.Models\obj\Debug\netcoreapp3.1\RxWebSampleApp.Models.pdb
